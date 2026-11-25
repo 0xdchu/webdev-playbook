@@ -2,7 +2,7 @@
 
 How coding agents write web code: use the current web platform, target a stated browser baseline, and have the reviewer check for legacy patterns.
 
-It sits beside [`coding-playbook`](https://github.com/0xdonniechu/coding-playbook) (models, review loop, task rating) and adds only the web-specific part.
+It sits beside [`coding-playbook`](https://github.com/0xdchu/coding-playbook) (models, review loop, task rating) and adds only the web-specific part.
 
 ## What is here
 - `skills/webdev/SKILL.md`: the steps a session follows before and while writing browser code.
